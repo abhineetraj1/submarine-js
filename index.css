@@ -1,0 +1,27 @@
+#f{
+	position: absolute;
+	height: 90px;
+	left: 10px;
+	top: 10px;
+}
+.as{
+	position: absolute;
+	height: 40px;
+}
+#cntrl{
+	position: absolute;
+	top: 3px;
+	margin: 3px;
+	padding: 3px;
+}
+body{
+	background: #00a1ff;
+}
+.controls{
+	background: white;
+	border: solid;
+	width: 70px;
+	font-size: 21px;
+	font-family: Calibri;
+	border-radius: 8px;
+}
