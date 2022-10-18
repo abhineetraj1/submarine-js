@@ -1,6 +1,13 @@
 # Submarine
 A small 2D simulation game made in JS
 
+## Commands (for desktop)
+* w - move up 
+* s - move down
+* d - move right
+* a - move left
+* f - fire missile
+
 ## Demo
 For live demo = [Open this link](https://abhineetraj1.github.io/submarine-js)
 
